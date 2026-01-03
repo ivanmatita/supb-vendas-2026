@@ -1,0 +1,7 @@
+{
+  "name": " OPERACIONAL SOF 2026 supb. vendas  1",
+  "description": "Imatec",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
